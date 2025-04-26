@@ -1,0 +1,5 @@
+.venv
+pyvenv.cfg
+downloaded_files
+*.json
+*.png
